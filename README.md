@@ -1,16 +1,15 @@
-### Hi there 👋
+👋 Hola! Soy Nico, Programador Full-Stack.
 
-<!--
-**nicotacchia/nicotacchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Egresado del Bootcamp SoyHenry con mas de 700 horas te programación teorica - practica. En el mismo ademas de programar, aprendi a trabajar en equipo, resolver problemas, liderar un proyecto, entre otras cosas. Mientras espero mi primer empleo en sector IT, sigo profundizando mis conocimientos en las tecnologias que domino para seguir creciendo como profesional.
 
-Here are some ideas to get you started:
+Me considero una persona proactiva la cual le gustan los desafíos y aprender cosas nuevas continuamente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En este momento trabajo con las tecnologías de JavaScript, NodeJS, ReactJS, Redux, Express, Sequelize, PostgreSQL, HTML, CSS.
+
+y que hago cuando no estudio? Juego al futbol, miro peliculas, salgo a divertirme con mis amigos. 
+
+
+Como contactarme? 
+https://www.linkedin.com/in/nicolastacchia/
+nico.tacchia@hotmail.com.ar
+
