@@ -7,17 +7,17 @@ Me considero una persona proactiva la cual le gustan los desafíos y aprender co
 
 En este momento trabajo con las tecnologías:
 
-JavaScript
-HTML
-CSS
-ReactJs
-Node.Js
-Express
-Sequelize
-Postgresql
-NextJs
-Chakra-UI
-Redux
+.JavaScript
+.HTML
+.CSS
+.ReactJs
+.Node.Js
+.Express
+.Sequelize
+.Postgresql
+.NextJs
+.Chakra-UI
+.Redux
 
 y que hago cuando no estudio? Juego al futbol ⚽, miro peliculas 🍿 , salgo a divertirme con mis amigos 🥳. 
 
