@@ -24,6 +24,6 @@ y que hago cuando no estudio? Juego al futbol ⚽, miro peliculas 🍿 , salgo a
 
 Como contactarme?  ➡️
 
-* https://www.linkedin.com/in/nicolastacchia/
+* :speech_balloon: https://www.linkedin.com/in/nicolastacchia/
 * 📫 nico.tacchia@hotmail.com.ar
 
